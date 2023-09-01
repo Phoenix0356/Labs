@@ -1,2 +1,2 @@
 # Labs
-a record of my lesson labs
+A record of my lesson labs
